@@ -1,0 +1,11 @@
+#heading{
+   display: flex;
+   justify-content: center; 
+   padding: 10px;
+   letter-spacing: 5px;
+}
+
+a{
+    color: black;
+}
+

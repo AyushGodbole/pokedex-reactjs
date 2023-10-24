@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.upper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 22px 0;
+}
+
+.pokedex-wrapper{
+    padding-bottom: 23px;
+}
+
+.pokedex-wrapper input{
+    width: 41%;
+    padding: 17px;
+    outline: none;
+}
+
+
+
+
