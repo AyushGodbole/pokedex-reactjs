@@ -1,7 +1,7 @@
 import { useState } from "react";
 import PokedexList from "../PokemonList/PokemonList";
 import Search from "../Search/Search";
-import './pokedex.css';
+import './Pokedex.css';
 import PokemonDetails from "../PokemonDetails/PokemonDetails";
 
 function Pokedex(){
